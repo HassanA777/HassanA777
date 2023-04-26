@@ -1,4 +1,4 @@
-### Hi there, I am Hassan -  [qadirhassan.com][website] 👋 
+### Hi there, I am Hassan -   👋 
 
 
 
