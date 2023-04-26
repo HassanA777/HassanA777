@@ -62,13 +62,10 @@
 | 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
 | 5    | Robotics                 | [👆](https://github.com/HassanA777/My-Projects/tree/main/Robotics) |
 | 6    | Slack Analytics                  | [👆](https://github.com/HassanA777/My-Projects/tree/main/Slack%20Analytics) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-
+| 7     | Statistical Modelling                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Statistical%20Modelling) |
+| 8     | TH Monitor and Control           | [👆](https://github.com/HassanA777/My-Projects/tree/main/TH%20Monitor%20and%20Control) |
+| 9     | Technical Machine Manual                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Technical%20Machine%20Manual) |
+| 10     | Unifi Analytics                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Unifi%20Analytics/Unifi) |
 
 
 
