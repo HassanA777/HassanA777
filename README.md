@@ -3,7 +3,7 @@
 
 
 
-## Education
+## EDUCATION
 
 - Master of Data Science, The University of Wisconsin, Superior, Graduated in 2022
   - Specialization: Artificial Intelligence/Machine Learning, Statistics, Modeling, Distributed Computing
