@@ -68,5 +68,15 @@
 | 10     | Unifi Analytics                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Unifi%20Analytics/Unifi) |
 
 
+<table>
+  <tr>
+    <td><img src="https://github.com/HassanA777/My-Projects/blob/main/lab%20entrance.jpg" width = 500>
+    </td>
+     <td><img src="https://github.com/HassanA777/My-Projects/blob/main/robotics%20setup.jpg" width = 500>
+    </td>
+    
+  </tr> 
+
+</table>
 
 
