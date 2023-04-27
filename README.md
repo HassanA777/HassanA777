@@ -3,20 +3,33 @@
 
 <img src="https://github.com/Qadir-Hassan/attachement/blob/main/banner.png">
 
-## MY PROJECTS
 
-| Sr No | Name                                                         | Link                                                         |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | Business Analysis                        | [👆](https://github.com/HassanA777/My-Projects/tree/main/Business%20Analysis) |
-| 2     | ERP Development                        | [👆](https://github.com/HassanA777/My-Projects/tree/main/ERP%20Development) |
-| 3     | Masters Thesis (Demand Forecasting)                      | [👆](https://github.com/HassanA777/My-Projects/tree/main/Masters%20Thesis%20(Demand%20Forecasting)) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-| 5    | Robotics                 | [👆](https://github.com/HassanA777/My-Projects/tree/main/Robotics) |
-| 6    | Slack Analytics                  | [👆](https://github.com/HassanA777/My-Projects/tree/main/Slack%20Analytics) |
-| 7     | Statistical Modelling                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Statistical%20Modelling) |
-| 8     | TH Monitor and Control           | [👆](https://github.com/HassanA777/My-Projects/tree/main/TH%20Monitor%20and%20Control) |
-| 9     | Technical Machine Manual                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Technical%20Machine%20Manual) |
-| 10     | Unifi Analytics                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Unifi%20Analytics/Unifi) |
+<table>
+  <tr>
+    <td><h2>MY PROJECTS</h2>
+    <td colspan="2"><center><h2>GALLERY</h2></center>
+  </tr>
+  <tr>
+    <td>
+      <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Business%20Analysis">1. Business Analysis 👆</p>
+       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/ERP%20Development">2. ERP Development 👆</p>
+       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Masters%20Thesis%20(Demand%20Forecasting)">3. Masters Thesis (Demand Forecasting) 👆</p>
+       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming">4. Recursive Distributed Programming 👆</p>
+        <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Robotics">5. Robotics 👆</p>
+       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Slack%20Analytics">6. 	Slack Analytics 👆</p>
+       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Statistical%20Modelling">7. Statistical Modelling 👆</p>
+       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/TH%20Monitor%20and%20Control">8. TH Monitor and Control 👆</p>
+         <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Technical%20Machine%20Manual">9. Technical Machine Manual 👆</p>
+       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Unifi%20Analytics/Unifi">10. Unifi Analytics👆</p>
+  </d>
+    <td ><img src="https://github.com/Qadir-Hassan/attachement/blob/main/lab%20entrance.jpg" width = 500>
+      <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
+    </td>
+     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/robotics%20setup.jpg" width = 500>
+        <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
+    </td>
+    </tr> 
+</table>
 
 
 ## WORK EXPERIENCE
@@ -69,34 +82,6 @@
 - Bachelor of Media, Information, and Technoculture, Western University, London, ON, Canada, Graduated in 2009
 
 
-## GALLERY
-
-<table>
-  <tr>
-    <td><h2>MY PROJECTS</h2>
-    <td><h2>GALLERY</h2>
-  </tr>
-  <tr>
-    <td>
-      <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Business%20Analysis">1. Business Analysis 👆</p>
-       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/ERP%20Development">2. ERP Development 👆</p>
-       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Masters%20Thesis%20(Demand%20Forecasting)">3. Masters Thesis (Demand Forecasting) 👆</p>
-       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming">4. Recursive Distributed Programming 👆</p>
-        <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Robotics">5. Robotics 👆</p>
-       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Slack%20Analytics">6. 	Slack Analytics 👆</p>
-       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Statistical%20Modelling">7. Statistical Modelling 👆</p>
-       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/TH%20Monitor%20and%20Control">8. TH Monitor and Control 👆</p>
-         <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Technical%20Machine%20Manual">9. Technical Machine Manual 👆</p>
-       <p><a href="https://github.com/HassanA777/My-Projects/tree/main/Unifi%20Analytics/Unifi">10. Unifi Analytics👆</p>
-  </d>
-    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/lab%20entrance.jpg" width = 500>
-      <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
-    </td>
-     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/robotics%20setup.jpg" width = 500>
-        <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
-    </td>
-    </tr> 
-</table>
 
 
 
