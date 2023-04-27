@@ -72,9 +72,9 @@
 ## GALLERY
 <table>
   <tr>
-    <td><img src="https://github.com/HassanA777/My-Projects/blob/main/lab%20entrance.jpg" width = 500>
+    <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/lab%20entrance.jpg" width = 500>
     </td>
-     <td><img src="https://github.com/HassanA777/My-Projects/blob/main/robotics%20setup.jpg" width = 500>
+     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/robotics%20setup.jpg" width = 500>
     </td>
     
   </tr> 
