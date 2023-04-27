@@ -1,7 +1,7 @@
 ### Hi there, I'm Hassan Aluraibi -  (hassan.aluraibi@gmail.com) 👋 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaluraibi/)
 
-<img src="https://github.com/HassanA777/My-Projects/blob/main/banner.png">
+<img src="https://github.com/Qadir-Hassan/attachement/blob/main/banner.png">
 
 ## MY PROJECTS
 
