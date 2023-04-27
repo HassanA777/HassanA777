@@ -3,6 +3,22 @@
 
 <img src="https://github.com/HassanA777/My-Projects/blob/main/banner.png">
 
+## MY PROJECTS
+
+| Sr No | Name                                                         | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | Business Analysis                        | [👆](https://github.com/HassanA777/My-Projects/tree/main/Business%20Analysis) |
+| 2     | ERP Development                        | [👆](https://github.com/HassanA777/My-Projects/tree/main/ERP%20Development) |
+| 3     | Masters Thesis (Demand Forecasting)                      | [👆](https://github.com/HassanA777/My-Projects/tree/main/Masters%20Thesis%20(Demand%20Forecasting)) |
+| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
+| 5    | Robotics                 | [👆](https://github.com/HassanA777/My-Projects/tree/main/Robotics) |
+| 6    | Slack Analytics                  | [👆](https://github.com/HassanA777/My-Projects/tree/main/Slack%20Analytics) |
+| 7     | Statistical Modelling                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Statistical%20Modelling) |
+| 8     | TH Monitor and Control           | [👆](https://github.com/HassanA777/My-Projects/tree/main/TH%20Monitor%20and%20Control) |
+| 9     | Technical Machine Manual                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Technical%20Machine%20Manual) |
+| 10     | Unifi Analytics                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Unifi%20Analytics/Unifi) |
+
+
 ## WORK EXPERIENCE
 ### Greyscale AI, Fremont, CA
 #### Director of Enterprise Systems, July 2022 - Present
@@ -52,22 +68,8 @@
 - Diploma in Electrical Engineering Technology, Fanshawe College, London, ON, Canada, Graduated in 2014
 - Bachelor of Media, Information, and Technoculture, Western University, London, ON, Canada, Graduated in 2009
 
-## MY PROJECTS
 
-| Sr No | Name                                                         | Link                                                         |
-| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | Business Analysis                        | [👆](https://github.com/HassanA777/My-Projects/tree/main/Business%20Analysis) |
-| 2     | ERP Development                        | [👆](https://github.com/HassanA777/My-Projects/tree/main/ERP%20Development) |
-| 3     | Masters Thesis (Demand Forecasting)                      | [👆](https://github.com/HassanA777/My-Projects/tree/main/Masters%20Thesis%20(Demand%20Forecasting)) |
-| 4     | Recursive Distributed Programming                   | [👆](https://github.com/HassanA777/My-Projects/tree/main/Recursive%20Distributed%20Programming) |
-| 5    | Robotics                 | [👆](https://github.com/HassanA777/My-Projects/tree/main/Robotics) |
-| 6    | Slack Analytics                  | [👆](https://github.com/HassanA777/My-Projects/tree/main/Slack%20Analytics) |
-| 7     | Statistical Modelling                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Statistical%20Modelling) |
-| 8     | TH Monitor and Control           | [👆](https://github.com/HassanA777/My-Projects/tree/main/TH%20Monitor%20and%20Control) |
-| 9     | Technical Machine Manual                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Technical%20Machine%20Manual) |
-| 10     | Unifi Analytics                | [👆](https://github.com/HassanA777/My-Projects/tree/main/Unifi%20Analytics/Unifi) |
-
-
+## GALLERY
 <table>
   <tr>
     <td><img src="https://github.com/HassanA777/My-Projects/blob/main/lab%20entrance.jpg" width = 500>
