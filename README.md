@@ -1,4 +1,4 @@
-### Hi there, I'm Hassan Aluraibi -   👋 
+### Hi there, I'm Hassan Aluraibi -  (hassan.aluraibi@gmail.com) 👋 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaluraibi/)
 
 <img src="https://github.com/HassanA777/My-Projects/blob/main/banner.png">
@@ -70,28 +70,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Profile views](https://gpvc.arturio.dev/HassanA777)</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanA777&show_icons=true) </br>
-![GitHub metrics](https://metrics.lecoq.io/HassanA777)  
