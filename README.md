@@ -70,15 +70,18 @@
 
 
 ## GALLERY
+
 <table>
   <tr>
     <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/lab%20entrance.jpg" width = 500>
+      <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
     </td>
      <td><img src="https://github.com/Qadir-Hassan/attachement/blob/main/robotics%20setup.jpg" width = 500>
+        <p>Silicon Valley - Automation Research and Development Lab (led and managed)</p>
     </td>
-    
-  </tr> 
-
+    </tr> 
 </table>
+
+
 
 
