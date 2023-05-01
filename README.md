@@ -1,4 +1,5 @@
-### Thanks for vistiting my Git Page. Please find samples of my dev. work below in controls, robotics, cloud and ERP development 👋 
+### Thanks for visiting Git Page. 
+#### Please find samples of my SW dev. work below in controls, robotics, cloud and ERP development 👋 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanaluraibi/)
 
 <img src="https://github.com/Qadir-Hassan/attachement/blob/main/banner.png">
